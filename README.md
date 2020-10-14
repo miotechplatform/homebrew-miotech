@@ -1,2 +1,2 @@
-# homebrew-miotech
-MioTech homebrew Formula
+# homebrew-miotechplatform
+MioTech Platform homebrew Formula
