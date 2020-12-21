@@ -1,8 +1,12 @@
+# Documentation: https://docs.brew.sh/Formula-Cookbook
+#                https://rubydoc.brew.sh/Formula
+# PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class MiotechCli < Formula
-  desc "MioTech Command-Line Tools"
+  desc "MioTech Command Line Tools"
   homepage ""
-  url "https://github.com/miotechplatform/miotech-cli/raw/main/miotech-cli_1.0.0.tar.gz"
-  sha256 "6eb9994dc27c2d96a445b3de24fc36b97f07c6c00ac5083826477317b23d7804"
+  url "https://github.com/miotechplatform/miotech-cli/releases/download/v1.1.0/miotech-cli.tar.gz"
+  version "1.1.0"
+  sha256 "5b5085655f1df3cf9c7509ac97f4e8b6d66de4b15070e464c859953c5f7c138c"
   license ""
 
   # depends_on "cmake" => :build
